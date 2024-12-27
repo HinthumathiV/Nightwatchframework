@@ -1,0 +1,21 @@
+{
+  "name": "nightwatchframework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "devDependencies": {
+    "chromedriver": "^131.0.4",
+    "nightwatch": "^3.9.0",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "glob": "^11.0.0"
+  }
+}
